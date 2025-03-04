@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Deepak8642/react_project.git/static/css/main.9cebdc52.css",
+    "main.js": "/Deepak8642/react_project.git/static/js/main.8004efe4.js",
+    "static/media/hero.jpg": "/Deepak8642/react_project.git/static/media/hero.84d70a494764d115c673.jpg",
+    "static/media/bhaskar.png": "/Deepak8642/react_project.git/static/media/bhaskar.b1d618d27f7f85a279bb.png",
+    "static/media/ekta.png": "/Deepak8642/react_project.git/static/media/ekta.eb0f86ef0a6b98e2da30.png",
+    "static/media/j2.png": "/Deepak8642/react_project.git/static/media/j2.54276b7dfea4e86510e9.png",
+    "static/media/j3.png": "/Deepak8642/react_project.git/static/media/j3.6a816399d9cfb2f703b9.png",
+    "static/media/brandlogo.png": "/Deepak8642/react_project.git/static/media/brandlogo.ad9c97a13e9976a54c8e.png",
+    "static/media/brandlogomd.png": "/Deepak8642/react_project.git/static/media/brandlogomd.411a5eecc9c5b6ce628d.png",
+    "static/media/aakash.jpg": "/Deepak8642/react_project.git/static/media/aakash.6da80ce00d476e20e4ac.jpg",
+    "static/media/sumeet.jpg": "/Deepak8642/react_project.git/static/media/sumeet.8f17b79133f35834e529.jpg",
+    "static/media/j1.jpg": "/Deepak8642/react_project.git/static/media/j1.ebabc6f33ab59ca205e3.jpg",
+    "index.html": "/Deepak8642/react_project.git/index.html",
+    "main.9cebdc52.css.map": "/Deepak8642/react_project.git/static/css/main.9cebdc52.css.map",
+    "main.8004efe4.js.map": "/Deepak8642/react_project.git/static/js/main.8004efe4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9cebdc52.css",
+    "static/js/main.8004efe4.js"
+  ]
+}
